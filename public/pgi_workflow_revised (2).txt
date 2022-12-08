@@ -1,0 +1,311 @@
+
+XelaExports Front-End (Stage 1) Development
+
+Pages; active pages 31 
+Pages; non active pages 2
+All images and content will be provided by PGI
+The website will not be a excact replica of examples
+Main page will have video section
+There will be 2 template based pages with a video section template
+There will be 6 template pages 
+This development of this website will follow all said requirements and timeline
+
+()()()()()()()()()()()()()()()()()()
+
+Main site colors
+
+ffffff Base background color
+3331bf Main color
+1310ea Secondary/ page break color
+36363d Footer color
+
+()()()()()()()()()()()()()()()()()()
+
+Front-end development outline
+Website core elements
+Header
+Body
+Footer
+
+()()()()()()()()()()()()()()()()()()
+
+HEADER:
+
+Image banner
+Logo
+Top banner header links top right side
+Request a quote tab/button
+Track shipments
+Carrier
+login
+818.478.3512
+
+()()()()()()()()()()()()()()()()()()
+
+BODY:
+Each page will describe the body determining provided content for that page 
+Contact Us 818.478.3512 
+
+Pages(dropdown)
+
+•	Logistics Services(dropdown)
+
+    Full Truckload (FTL)       link to page
+    Less Than Truckload (LTL)  link to page
+    Intermodal                 link to page
+    Drayage                    link to page
+
+        Special Services
+
+    Drop Trailer               link to page
+    Oversize-Overweight        link to page
+    Partials                   link to page
+    Warehousing                link to page
+    Customs Brokerage          link to page
+    Mexico Cross-Border        link to page
+    Canada Services            link to page
+
+REQUEST A QUOTE
+
+ 		
+•       Carriers(dropdown)
+
+     Carriers                  link to page
+     Setting you up            link to page
+     FAQ 	               link to page
+		
+•       What Moves             link to page
+•       About Us(dropdown)     
+
+    Mission                    link to page
+    Culture                    link to page
+    Industry   		       link to page
+    Newsletter                 link to page
+		
+•       Contact Us(dropdown)
+    Customers                  link to page
+    Carriers                   link to page
+    General                    link to page 
+   
+
+• Modes
+
+    Full Truckload (FTL)
+Request a Quote top of page tab/button
+(Content)
+Request a Quote bottom of page link
+
+Proven Factors
+(company/achievement description)
+Request a Quote bottom of page
+
+    Less Than Truckload (LTL)
+Request a Quote top of page tab/button
+(Content)
+Request a Quote bottom of page link
+
+    Intermodal
+Request a Quote top of page tab/button
+(Content)
+Request a Quote bottom of page link
+
+    Drayage
+Request a Quote top of page tab/button
+(Content)
+Request a Quote bottom of page link
+
+  •   Air
+    Connect with us
+Request a Quote top of page tab/button
+(Content)
+Request a Quote bottom of page link
+
+  •   Ocean
+    Connect with us
+Request a Quote top of page tab/button
+(Content)
+Request a Quote bottom of page link
+
+Specialized Services
+
+    Drop Trailer
+    Oversize-Overweight
+    Partials
+    Warehousing
+    Customs Brokerage
+    Mexico Cross-Border
+    Canada Services
+
+REQUEST A QUOTE
+
+This page is fillable form 
+
+(check box) capthcha 
+I agree to PGI's Terms of Use and Privacy and Cookies Policy
+
+All documents submitted can be uploaded (upload button) 
+
+Form is complete and submit button it is forward to email
+
+()()()()()()()()()()()()()()()()()()
+
+FOOTER:
+
+Request a quote
+
+Logistics Services
+
+Modes
+
+    Logistics Services
+    Full Truckload
+    Less Than Truckload
+    Intermodal
+    Drayage
+    Air
+    Ocean
+
+Specialized Services
+
+    Drop Trailer
+    Oversize/Overweight
+    Partials
+    Warehousing
+    Customs Brokerage
+    Mexico Cross-Border
+    Canada Services
+
+Carriers
+
+    Carriers
+    Get Set Up
+    FAQs
+
+
+About us
+
+    About Us
+    In The News
+    Press Releases
+
+818-478-3512
+
+()()()()()()()()()()()()()()()()()()
+
+REQUEST A QUOTE:     link/page             FORM
+
+This is a form to request a load quote all information must be inputted bellow
+
+First Name
+Last Name
+Title
+Company
+Phone
+Email address
+ORIGIN: City/State/Province/Zip
+DESTINATION: City/State/Province/Zip
+Date load needs to be picked up
+Date load needs to be delivered
+Equipment
+(dry van / truck load)
+(flatbed / step deck)
+(temperature controlled fresh)
+(temperature frozen)
+(over dimensional / other)
+trailer size
+(40 feet)
+(45 feet)
+(48 feet)
+(53 feet)
+(other)
+Freight Description / Shipping Details / Comments
+
+(check box) capthcha 
+I agree to PGI's Terms of Use and Privacy and Cookies Policy
+
+Form is complete and submit button it is forward to email
+
+site key: 6LfoVcMhAAAAAGLaGanecVTxOmQzgBU_hq9ykqt9
+
+screct key[:] 6LfoVcMhAAAAAMqJchBMB2rgXA9P3b7kccOSbLiT
+
+()()()()()()()()()()()()()()()()()()()
+
+CARRIER:        link/page       FORM
+
+carrier account registration forms to be submitted via email
+(all form spaces are required to be filled out)
+
+Carrier Form:
+
+Company Information
+Company name *
+City*
+State*
+Zip code*
+
+Primary Contact
+Name*
+Phone*
+Email*
+
+At least one enrty # is required:
+Motor carrier number(MC)
+Freight forwarder (FF#)
+Canadian COVR/RIN#
+US DOT#
+NVOCC#
+
+CARRIER REGISTRATION:
+requirements (example below)
+1- Authorization to sign a binding contract for your company.
+2- Your insurance broker's contact information OR a sample Certification of Insurance of both CARGO and LIABILITY insurance from your broker.
+3- Company TAX ID information
+
+(check box) capthcha 
+I agree to PGI's Terms of Use and Privacy and Cookies Policy
+
+All documents submitted can be uploaded (upload button) 
+
+Form is complete and submit button it is forward to email
+
+
+()()()()()()()()()()()()()()()()()()()
+
+
+ALL SITE PAGES:
+    Proven Factors  
+    Intermodal
+    Drayage
+    Air   
+    Ocean  
+    Logistics Services
+    Full Truckload (FTL)       
+    Less Than Truckload (LTL)                     
+    Special Services
+    Drop Trailer               
+    Oversize-Overweight        
+    Partials                   
+    Warehousing               
+    Customs Brokerage          
+    Mexico Cross-Border        
+    Canada Services            
+    Request a quote
+    Carriers                  
+    Setting you up            
+    FAQ 	               	
+    What Moves             
+    About Us   
+    Mission                    
+    Culture                    
+    Industry   		       
+    Newsletter                 
+    Customers                  
+    Carriers                   
+    General
+    Forms
+    Contact 
+    404
+    Under Current Development   
+
+

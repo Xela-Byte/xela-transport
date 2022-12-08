@@ -1,0 +1,55 @@
+The breakdown of the front end development, 
+
+
+Maximum time to be taken is 18 days, estimated to be three weeks or less.
+
+Color Codes
+
+ffffff Base background color
+3331bf Main color
+1310ea Secondary / Page break color
+36363d Footer color
+
+First milestone (pages): 
+    Forms
+    Contact
+    404
+    About Us
+    Under Current Development
+    Mission
+
+Second milestone:
+    Full Truckload (FTL)                    
+
+Third milestone (pages)
+    Proven Factors  
+    Intermodal
+    Drayage
+    Air
+
+Fourth milestone:
+    Industry   		       
+    Newsletter                 
+    Customers 
+    Request a quote
+    Carriers                  
+    Setting you up  
+    Ocean  
+    Logistics Services
+
+Fifth milestone:
+    Less Than Truckload (LTL) 
+    Setting you up            
+    FAQ 	               	
+    What Moves   
+    Drop Trailer                   
+    Oversize-Overweight 
+
+Sixth milestone:: 
+    Partials                   
+    Warehousing   
+    Customs Brokerage          
+    Mexico Cross-Border        
+    Canada Services 
+    General 
+    Special Services
